@@ -1,9 +1,13 @@
 # Hi there! I'm Yashvardhan Sharma 👋
 ### Your Next Analytics Engineer 📊 | Data Analyst | ETL Specialist
 
-I am a results-driven **Analytics Engineer** with a B.Tech in Computer Science and Engineering and a background in data analysis. I specialize in building management-ready analytics, dashboard development, ETL automation, and data validation workflows. 
+> **"Bridging the gap between raw data streams and executive-ready business intelligence."**
+>
+> I am an **Analytics Engineer** with a B.Tech in Computer Science and a passion for engineering high-accuracy analytics solutions. My focus is on automating ETL processes, designing robust data validation frameworks, and crafting interactive Power BI dashboards that directly steer Weekly & Monthly Business Reviews (WBR/MBR) for procurement and marketing campaign stakeholders.
 
-I help procurement, campaign, and business stakeholders make data-driven decisions that improve targeting, boost ROI, and streamline operations.
+*   🎓 **Computer Science & Engineering Graduate** (2026) with a strong foundation in database design, statistics, and machine learning.
+*   💼 Former **Data Analyst** at IP INDIA, driving automation that reduced manual report preparation time.
+*   🎯 **Accuracy First**: Passionate about standardizing data validation checks to deliver 96%+ report reliability with zero reconciliation errors.
 
 ---
 
